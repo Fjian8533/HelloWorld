@@ -22,3 +22,6 @@ dest[len] = '\0';
  return dest;  
 
 }
+/**
+Remote edit B21032309王泽顺
+/**
